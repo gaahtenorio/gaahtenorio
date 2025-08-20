@@ -1,4 +1,4 @@
-# [Gabriel Tenório] <br> <br> <img src="https://i.imgur.com/iwatVcO.gif" width="250px">
+# [Gabriel Tenório] <br> <br> <img src="https://media.tenor.com/DK7EFOzqbYoAAAAM/sparklepandalana-emoji-typing.gif" width="250px">
 
 Eu sou <strong>Gabriel</strong>, <strong>sou estudante de ADS.</strong> 👨🏻‍💻 
 
