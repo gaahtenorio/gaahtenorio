@@ -1,4 +1,4 @@
-# [Gabriel] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Gabriel] <img src="https://i.imgur.com/iwatVcO.gif">
 
 Eu sou <strong>Gabriel</strong>, <strong>sou estudante de ADS.</strong> 👨🏻‍💻 
 
