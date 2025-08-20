@@ -1,6 +1,6 @@
 # [Gabriel] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Gabriel</strong>, <strong>Sou estudante de ADS.</strong> 👨🏻‍💻 
+Eu sou <strong>Gabriel</strong>, <strong>sou estudante de ADS.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Séries, filmes, músicas.</strong>
