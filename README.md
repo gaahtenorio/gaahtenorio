@@ -1,4 +1,4 @@
-# [Gabriel] <img src="https://i.imgur.com/iwatVcO.gif">
+# [Gabriel] <img src="https://i.imgur.com/iwatVcO.gif"width="30px">
 
 Eu sou <strong>Gabriel</strong>, <strong>sou estudante de ADS.</strong> 👨🏻‍💻 
 
